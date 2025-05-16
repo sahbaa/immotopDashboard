@@ -1,0 +1,251 @@
+,Type,Floor,Lift,Surface,Rooms,Bed,Bath,Furnished,Terrace,Garage,place,city,price
+0,Apartment,1,0,0-42,0,0,0,0,0,0, Gasperich-Cloche d’or, Luxembourg,1600
+1,detached house,0,0,116-167,2,2,1,0,0,0, Pfaffenthal, Luxembourg,2990
+2,Apartment,1,0,76-116,1,1,1,1,0,0, Hollerich, Luxembourg,2150
+3,Apartment,2,1,42-75,2,2,1,0,0,2, Cessange, Luxembourg,2600
+4,Apartment,1,1,76-116,2,2,2,0,1,1, Helmsange, Walferdange,2400
+5,detached house,0,0,167-215,4,4,2,0,1,0, Junglinster Localité, Junglinster,3800
+6,Apartment,3,1,76-116,3,3,2,0,0,0, Bereldange, Walferdange,2540
+7,detached house,0,0,116-167,4,4,2,0,0,0, Gasperich-Cloche d’or, Luxembourg,3750
+8,Apartment,2,1,76-116,2,2,1,0,0,0, Merl, Luxembourg,2200
+9,detached house,0,0,167-215,4,4,2,0,0,0, Dalheim Localité, Dalheim,3200
+10,Apartment,0,1,76-116,2,2,1,1,1,0, Bertrange,Luxembourg,2950
+11,Apartment,2,1,0-42,1,1,1,1,0,0, Belair, Luxembourg,2300
+12,detached house,0,0,167-215,3,3,1,0,1,0, Tarchamps, Lac de la Haute Sûre,2300
+13,Apartment,2,1,76-116,3,3,2,0,0,2, Limpertsberg, Luxembourg,4650
+14,Apartment,3,1,42-75,1,1,1,0,0,0, Alzingen, Hesperange,1900
+15,detached house,0,0,167-215,0,6,1,0,0,0, Belair, Luxembourg,4400
+16,Duplex,0,0,42-75,3,3,0,0,1,0, Moersdorf, Rosport-Mompach,3200
+17,Duplex,0,0,42-75,3,3,0,0,1,0, Moersdorf, Rosport-Mompach,2600
+18,Duplex,0,0,167-215,3,3,0,0,1,0, Moersdorf, Rosport-Mompach,5000
+19,Apartment,1,0,76-116,2,2,1,0,1,0, Alzingen, Hesperange,1700
+20,Penthouse,more,1,76-116,2,2,2,0,1,0, Limpertsberg, Luxembourg,3500
+21,Apartment,more,1,42-75,1,1,1,1,0,0, Ville Haute, Luxembourg,1450
+22,Apartment,0,1,76-116,2,2,1,0,0,0, Bissen Localité, Bissen,2000
+23,Studio,0,0,0-42,1,1,1,0,0,1, Ville Haute, Luxembourg,1250
+24,Duplex,0,0,116-167,0,0,1,0,1,1, Rollingen, Mersch,2250
+25,Apartment,1,0,76-116,2,2,2,0,1,2, Itzig, Hesperange,2200
+26,Duplex,1,0,42-75,2,2,2,1,0,0, Steinsel Localité, Steinsel,2150
+27,detached house,0,0,116-167,4,4,2,0,1,1, Gasperich-Cloche d’or, Luxembourg,3350
+28,detached house,0,0,>215,5,5,2,0,0,0, Helmsange, Walferdange,4000
+29,Apartment,3,1,42-75,1,1,1,0,0,0, Muhlenbach, Luxembourg,1900
+30,Apartment,2,1,42-75,1,1,1,1,0,0, Belair, Luxembourg,2500
+31,Apartment,0,0,76-116,2,2,1,0,0,0, Ville Haute, Luxembourg,2800
+32,Apartment,more,1,42-75,1,1,1,1,0,0, Ville Haute, Luxembourg,1700
+33,Apartment,1,1,42-75,1,1,1,0,0,0, Lintgen Localité, Lintgen,1500
+34,Apartment,2,0,76-116,2,2,1,0,0,0, Bonnevoie-Verlorenkost, Luxembourg,2250
+35,Apartment,2,0,42-75,1,1,0,0,0,1, Rollingergrund, Luxembourg,1700
+36,Apartment,0,0,76-116,2,2,1,0,1,2, Aspelt, Frisange,1725
+37,Apartment,1,0,76-116,2,2,1,0,0,0, Bech Localité, Bech,1900
+38,Apartment,1,0,76-116,2,2,1,1,0,0, Gare, Luxembourg,2550
+39,Apartment,1,1,76-116,2,2,1,1,0,0, Limpertsberg, Luxembourg,3200
+40,Apartment,3,0,76-116,2,2,1,1,0,0, Roeser Localité, Roeser,2000
+41,Apartment,1,0,0-42,1,1,1,1,0,0, Belair, Luxembourg,1800
+42,Duplex,3,0,76-116,2,2,1,0,0,1, Strassen,Luxembourg,2150
+43,Apartment,2,0,42-75,1,1,1,0,0,0, Ettelbruck Localité, Ettelbruck,1500
+44,Apartment,0,1,42-75,1,1,1,1,0,0, Eich, Luxembourg,2380
+45,Apartment,more,1,76-116,2,2,1,1,0,0, Kirchberg, Luxembourg,3940
+46,detached house,0,0,116-167,3,3,1,0,1,0, Bous Localité, Bous,2500
+47,Apartment,0,1,42-75,1,1,1,0,0,1, Gare, Luxembourg,1850
+48,Apartment,0,1,0-42,1,1,1,0,1,1, Gare, Luxembourg,1870
+49,Apartment,2,1,76-116,2,2,1,0,0,0, Cessange, Luxembourg,2100
+50,Apartment,0,1,76-116,3,3,2,0,1,0, Dommeldange, Luxembourg,3300
+51,Apartment,0,0,116-167,3,3,1,0,1,1, Mondorf-les-Bains Localité, Mondorf-les-Bains,2300
+52,Duplex,2,0,76-116,2,2,1,0,1,0, Stadtbredimus Localité, Stadtbredimus,2650
+53,Apartment,3,0,76-116,3,3,1,0,0,0, Gasperich-Cloche d’or, Luxembourg,2300
+54,Penthouse,2,1,42-75,1,1,1,0,0,0, Lausdorn, Clervaux,1400
+55,Duplex,0,0,42-75,2,2,1,0,1,0, Strassen,Luxembourg,2400
+56,Apartment,1,0,76-116,2,2,1,0,0,0, Itzig, Hesperange,1750
+57,Apartment,2,1,42-75,1,1,1,0,1,0, Bridel, Kopstal,2000
+58,Apartment,1,1,42-75,1,1,1,1,0,0, Gare, Luxembourg,1900
+59,Apartment,2,1,42-75,1,1,1,0,0,0, Belvaux, Sanem,1650
+60,Apartment,0,1,42-75,1,1,1,0,1,0, Neudorf-Weimershof, Luxembourg,2600
+61,Apartment,1,1,76-116,2,2,1,0,0,0, Neudorf-Weimershof, Luxembourg,3500
+62,Apartment,0,1,42-75,1,1,1,0,1,0, Neudorf-Weimershof, Luxembourg,2600
+63,Apartment,1,1,76-116,2,2,1,0,0,0, Neudorf-Weimershof, Luxembourg,3500
+64,Apartment,2,1,0-42,1,1,1,1,0,0, Al-Esch, Esch-sur-Alzette,1600
+65,Apartment,2,1,76-116,2,2,1,0,1,0, Belair, Luxembourg,2300
+66,Apartment,2,0,76-116,2,2,1,0,0,0, Mamer Localité, Mamer,2200
+67,Apartment,0,1,167-215,3,3,2,0,1,0, Limpertsberg, Luxembourg,4200
+68,detached house,0,0,0-42,5,5,3,0,1,0, Bonnevoie-Verlorenkost, Luxembourg,4000
+69,Apartment,2,1,116-167,4,4,3,0,1,0, Moutfort, Contern,3850
+70,Apartment,1,1,116-167,4,4,3,0,1,0, Moutfort, Contern,3750
+71,Apartment,1,1,116-167,3,3,2,0,0,0, Moutfort, Contern,3250
+72,Duplex,1,1,>215,5,5,3,0,1,0, Moutfort, Contern,4550
+73,Apartment,0,1,42-75,1,1,1,0,0,0, Muhlenbach, Luxembourg,1750
+74,detached house,3,0,116-167,4,4,2,0,0,0, Ville Haute, Luxembourg,3850
+75,Apartment,3,1,42-75,1,1,2,0,0,0, Belair, Luxembourg,1780
+76,detached house,0,0,116-167,3,3,2,0,0,0, Alzingen, Hesperange,3300
+77,Studio,more,1,0-42,0,0,2,0,0,1, Belair, Luxembourg,1500
+78,Apartment,2,0,42-75,1,1,1,0,0,0, Merl, Luxembourg,2000
+79,Apartment,1,1,76-116,2,2,1,0,0,0, Kehlen Localité, Kehlen,1950
+80,Apartment,1,1,76-116,2,2,2,0,0,0, Limpertsberg, Luxembourg,4400
+81,detached house,2,0,116-167,3,3,0,0,1,0, Bridel, Kopstal,3600
+82,Apartment,0,1,76-116,2,2,1,0,0,0, Merl, Luxembourg,2200
+83,Apartment,0,1,42-75,1,1,1,0,1,0, Limpertsberg, Luxembourg,1800
+84,Apartment,3,1,76-116,2,2,1,0,1,0, Cessange, Luxembourg,2500
+85,Apartment,0,1,76-116,2,2,1,0,1,1, Bertrange,Luxembourg,3200
+86,Apartment,2,1,42-75,1,1,1,1,0,0, Merl, Luxembourg,1950
+87,Apartment,1,0,42-75,1,1,2,0,0,0, Beggen, Luxembourg,1730
+88,Apartment,3,1,42-75,1,1,0,0,0,0, Cessange, Luxembourg,1750
+89,Apartment,0,0,42-75,1,1,1,0,0,0, Bonnevoie-Verlorenkost, Luxembourg,1490
+90,Apartment,2,0,76-116,2,2,1,0,0,0, Belair, Luxembourg,2700
+91,Apartment,2,1,42-75,1,1,1,0,0,0, Mondorf-les-Bains Localité, Mondorf-les-Bains,1500
+92,Apartment,2,0,42-75,1,1,1,0,0,0, Belair, Luxembourg,2500
+93,Studio,2,0,0-42,0,0,1,0,0,0, Ville Haute, Luxembourg,1550
+94,detached house,0,0,>215,4,4,2,0,1,0, Lamadelaine, Pétange,2400
+95,Apartment,1,1,76-116,3,3,0,0,0,2, Pétange Localité, Pétange,1900
+96,Apartment,3,0,76-116,2,2,1,0,0,0, Rodange, Pétange,1700
+97,Studio,3,1,0-42,0,0,1,1,0,1, Gasperich-Cloche d’or, Luxembourg,1600
+98,Apartment,more,1,76-116,2,2,1,0,0,0, Limpertsberg, Luxembourg,2400
+99,detached house,0,0,>215,5,5,2,0,1,0, Junglinster Localité, Junglinster,4000
+100,Apartment,2,1,0-42,1,1,1,1,0,0, Ville Haute, Luxembourg,2000
+101,Apartment,2,1,0-42,1,1,1,1,0,0, Ville Haute, Luxembourg,1995
+102,detached house,0,0,116-167,4,4,2,0,0,0, Gasperich-Cloche d’or, Luxembourg,3600
+103,Apartment,2,1,76-116,2,2,1,0,0,0, Dudelange,Luxembourg,2100
+104,Apartment,1,0,0-42,1,1,1,0,0,0, Limpertsberg, Luxembourg,1650
+105,detached house,0,0,167-215,4,4,3,0,0,0, Clausen, Luxembourg,3950
+106,Apartment,1,1,76-116,2,2,1,0,0,0, Dommeldange, Luxembourg,2800
+107,Apartment,2,1,42-75,1,1,1,0,0,0, Belair, Luxembourg,1950
+108,Apartment,1,0,76-116,2,2,1,0,0,0, Belair, Luxembourg,2600
+109,Apartment,2,0,76-116,1,1,1,0,0,0, Belair, Luxembourg,2200
+110,detached house,0,0,>215,3,3,2,0,0,0, Ville Haute, Luxembourg,6500
+111,detached house,0,0,>215,0,6,3,0,0,1, Strassen,Luxembourg,4400
+112,detached house,0,0,>215,4,4,2,0,1,4, Senningerberg, Niederanven,3800
+113,Apartment,2,1,42-75,2,2,1,0,0,0, Belvaux, Sanem,2000
+114,detached house,0,0,>215,4,4,3,0,1,0, Mamer Localité, Mamer,7000
+115,detached house,3,0,42-75,1,1,1,1,0,0, Bonnevoie-Verlorenkost, Luxembourg,1900
+116,detached house,0,0,116-167,3,3,2,0,0,1, Mondorf-les-Bains Localité, Mondorf-les-Bains,2500
+117,Apartment,2,1,76-116,2,2,1,0,0,0, Fentange, Hesperange,2000
+118,detached house,0,0,167-215,5,5,2,0,1,0, Remerschen, Schengen,2860
+119,Studio,2,1,0-42,0,0,1,1,0,0, Ville Haute, Luxembourg,2000
+120,Apartment,0,0,42-75,0,0,0,0,0,0, Limpertsberg, Luxembourg,1850
+121,detached house,0,0,167-215,4,4,2,0,1,0, Gasperich-Cloche d’or, Luxembourg,3800
+122,Apartment,1,1,42-75,1,1,1,0,1,0, Ville Haute, Luxembourg,2000
+123,Apartment,3,1,42-75,0,0,1,1,0,0, Ville Haute, Luxembourg,1550
+124,Apartment,3,1,76-116,2,2,2,1,0,0, Limpertsberg, Luxembourg,3350
+125,Apartment,1,1,76-116,2,2,1,0,0,0, Belair, Luxembourg,2600
+126,Apartment,1,1,42-75,1,1,1,0,0,0, first floor, Strassen,1850
+127,Apartment,0,1,76-116,2,2,1,1,0,0, Hollerich, Luxembourg,2400
+128,Apartment,1,1,76-116,1,1,1,0,0,0, Ville Haute, Luxembourg,2350
+129,Apartment,2,0,116-167,2,2,2,0,0,0, Ville Haute, Luxembourg,3000
+130,Apartment,0,0,76-116,2,2,1,0,0,0, Hollerich, Luxembourg,2400
+131,Apartment,3,0,0-42,3,3,1,1,0,0, Gare, Luxembourg,3300
+132,Studio,2,0,0-42,0,0,1,0,0,0, Ville Haute, Luxembourg,1800
+133,Studio,3,1,0-42,0,0,1,1,0,0, Gare, Luxembourg,1400
+134,Apartment,3,1,76-116,2,2,0,0,0,0, Ville Haute, Luxembourg,2500
+135,Studio,0,0,0-42,1,1,1,0,0,0, Limpertsberg, Luxembourg,1250
+136,Apartment,2,1,42-75,2,1,1,1,0,0, Belval-Université, Esch-sur-Alzette,1450
+137,Apartment,2,1,42-75,1,0,1,0,0,0, Belval Nord, Sanem,1400
+138,detached house,0,0,116-167,3,3,1,0,1,3, Bridel, Kopstal,2950
+139,Apartment,0,0,116-167,3,3,2,0,1,0, Berdorf Localité, Berdorf,2770
+140,Studio,3,1,0-42,0,0,1,0,0,0, Merl, Luxembourg,1450
+141,Apartment,1,0,42-75,2,2,1,0,1,0, Strassen,Luxembourg,1650
+142,Apartment,1,1,42-75,1,1,0,0,0,1, Schifflange,Luxembourg,1600
+143,Apartment,0,0,76-116,2,2,1,0,1,2, Belvaux, Sanem,2200
+144,Apartment,2,1,76-116,2,2,1,0,0,1, Schifflange,Luxembourg,1450
+145,Apartment,3,0,42-75,1,1,1,0,1,0, Al-Esch, Esch-sur-Alzette,1200
+146,detached house,0,0,116-167,4,4,1,0,1,1, Al-Esch, Esch-sur-Alzette,2500
+147,Duplex,1,0,42-75,2,2,1,0,0,0, Aspelt, Frisange,1750
+148,Apartment,2,1,76-116,2,2,1,0,0,3, Warken, Ettelbruck,1650
+149,detached house,0,0,0-42,0,0,0,0,0,0, Alzingen, Hesperange,4250
+150,Apartment,2,1,42-75,1,1,1,0,1,0, Niederkorn, Differdange,1500
+151,Apartment,3,0,42-75,1,1,1,0,0,0, Al-Esch, Esch-sur-Alzette,1450
+152,Duplex,3,1,42-75,2,2,1,0,0,0, Niederkorn, Differdange,1650
+153,Apartment,2,0,42-75,1,1,1,0,0,0, Clausen, Luxembourg,2000
+154,Apartment,0,0,42-75,1,1,1,0,1,0, Ville Haute, Luxembourg,2350
+155,Apartment,0,0,76-116,2,2,1,0,1,2, Hesperange Localité, Hesperange,2650
+156,Apartment,0,1,42-75,1,1,1,0,1,1, Strassen,Luxembourg,1850
+157,Apartment,2,0,42-75,1,1,1,1,0,0, Al-Esch, Esch-sur-Alzette,1500
+158,Apartment,0,0,0-42,1,1,1,0,0,0, Grund, Luxembourg,1750
+159,Apartment,0,1,0-42,0,0,1,0,0,1, Cessange, Luxembourg,1550
+160,Apartment,1,1,76-116,2,2,1,0,0,0, Neudorf-Weimershof, Luxembourg,3500
+161,Apartment,0,1,76-116,2,2,1,0,1,1, Neudorf-Weimershof, Luxembourg,3500
+162,Apartment,0,1,42-75,1,1,1,1,1,0, Neudorf-Weimershof, Luxembourg,2600
+163,Apartment,1,1,42-75,1,1,1,1,0,0, Neudorf-Weimershof, Luxembourg,2400
+164,detached house,0,0,167-215,4,4,2,0,1,2, Ahn, Wormeldange,3100
+165,Apartment,0,1,42-75,1,1,1,1,1,0, Neudorf-Weimershof, Luxembourg,2600
+166,Apartment,3,1,42-75,1,1,1,1,0,0, Steinfort Localité, Steinfort,1700
+167,Apartment,0,1,0-42,1,1,1,0,0,1, Merl, Luxembourg,1700
+168,Apartment,2,0,42-75,1,1,1,0,1,0, Gare, Luxembourg,2100
+169,Apartment,2,1,76-116,2,2,1,1,0,0, Belval-Université, Esch-sur-Alzette,1900
+170,Apartment,1,1,76-116,1,1,1,1,0,0, Al-Esch, Esch-sur-Alzette,1650
+171,Apartment,2,1,76-116,2,2,1,0,0,0, Differdange Localité, Differdange,1600
+172,Apartment,2,1,0-42,0,0,1,1,1,1, Differdange Localité, Differdange,1250
+173,Apartment,3,1,76-116,2,2,1,0,1,0, Bettembourg Localité, Bettembourg,1650
+174,Apartment,more,0,0-42,1,1,1,0,0,0, Limpertsberg, Luxembourg,1590
+175,Apartment,more,0,42-75,2,2,1,0,0,0, Ville Haute, Luxembourg,3000
+176,Apartment,2,0,76-116,1,1,1,0,0,0, Ville Haute, Luxembourg,2450
+177,Apartment,2,1,116-167,2,2,1,0,1,3, Hosingen, Parc Hosingen,1950
+178,detached house,0,0,116-167,5,5,2,0,0,1, Hosingen, Parc Hosingen,2400
+179,Apartment,0,0,76-116,2,2,1,0,0,2, Drauffelt, Clervaux,1500
+180,Apartment,0,1,76-116,1,1,1,0,0,1, Weiswampach Localité, Weiswampach,1300
+181,detached house,0,0,167-215,4,4,2,0,1,4, Weiswampach Localité, Weiswampach,2500
+182,Apartment,1,0,116-167,1,1,1,0,0,3, Lieler, Clervaux,1650
+183,Apartment,2,0,76-116,3,3,2,0,0,0, Echternach,Luxembourg,1500
+184,Apartment,2,1,42-75,2,2,1,0,0,0, Al-Esch, Esch-sur-Alzette,1650
+185,Apartment,1,0,42-75,1,1,0,0,0,0, Bonnevoie-Verlorenkost, Luxembourg,1850
+186,Apartment,0,0,0-42,1,1,1,0,0,1, Asselborn, Wincrange,1100
+187,Apartment,2,0,116-167,3,3,1,0,1,0, Belair, Luxembourg,2650
+188,Apartment,3,1,42-75,1,1,1,0,0,0, Ville Haute, Luxembourg,1850
+189,Apartment,2,1,76-116,2,2,1,1,0,0, Mamer Localité, Mamer,2200
+190,detached house,0,0,>215,5,5,2,0,0,0, Rue des Dahlias, Bertrange,4100
+191,detached house,0,0,116-167,3,3,1,0,0,1, Filsdorf, Dalheim,2550
+192,Apartment,1,0,42-75,1,1,2,0,0,0, Luxembourg, Leudelange,1200
+193,Apartment,1,0,42-75,1,1,1,1,0,0, Belair, Luxembourg,1800
+194,Studio,2,1,0-42,0,0,1,0,0,0, Merl, Luxembourg,1550
+195,detached house,0,0,167-215,4,4,1,0,0,0, Al-Esch, Esch-sur-Alzette,3000
+196,detached house,0,0,167-215,4,4,3,0,1,0, Hagen, Steinfort,3300
+197,Apartment,1,0,76-116,2,2,1,0,0,0, Al-Esch, Esch-sur-Alzette,1600
+198,Apartment,2,1,76-116,2,2,1,0,0,0, Hollerich, Luxembourg,2450
+199,Apartment,3,1,76-116,2,2,2,0,0,0, Hollerich, Luxembourg,2550
+200,Studio,0,0,0-42,0,0,0,0,0,1, Bereldange, Walferdange,1290
+201,Apartment,2,0,42-75,2,2,1,0,0,0, Strassen,Luxembourg,2400
+202,Apartment,0,1,76-116,2,2,2,1,0,0, Limpertsberg, Luxembourg,3500
+203,detached house,0,0,>215,5,5,3,0,1,4, Bettembourg Localité, Bettembourg,4500
+204,Apartment,3,1,76-116,2,2,1,0,1,0, Helmsange, Walferdange,3000
+205,Apartment,1,1,0-42,1,1,1,0,0,0, Lallange, Esch-sur-Alzette,1475
+206,Apartment,3,0,0-42,0,0,1,1,0,2, Hollerich, Luxembourg,1750
+207,Apartment,3,1,76-116,0,0,0,1,0,0, Gare, Luxembourg,3000
+208,Apartment,3,1,76-116,2,2,1,1,0,0, Gasperich-Cloche d’or, Luxembourg,2200
+209,Apartment,2,1,116-167,3,3,2,0,1,0, Merl, Luxembourg,4700
+210,detached house,0,0,116-167,3,3,2,1,1,0, Steinfort Localité, Steinfort,2650
+211,Studio,more,0,0-42,1,1,1,1,0,0, Ville Haute, Luxembourg,1800
+212,Apartment,1,0,76-116,2,2,1,0,1,2, Senningerberg, Niederanven,1850
+213,Apartment,3,1,42-75,1,1,1,0,0,0, Oberkorn, Differdange,1450
+214,Apartment,more,1,42-75,2,2,1,0,0,0, Gasperich-Cloche d’or, Luxembourg,2200
+215,Apartment,1,1,0-42,1,1,0,1,0,0, Pétange Localité, Pétange,1600
+216,Apartment,1,0,0-42,1,1,2,0,0,0, Pétange Localité, Pétange,1450
+217,Apartment,0,1,0-42,0,0,1,0,1,2, Wickrange, Reckange-sur-Mess,1350
+218,Studio,2,0,0-42,1,1,1,1,0,0, Strassen,Luxembourg,1700
+219,Apartment,2,0,76-116,3,3,1,0,0,0, Limpertsberg, Luxembourg,2500
+220,Apartment,1,1,42-75,1,1,1,0,1,0, Hollerich, Luxembourg,2000
+221,Apartment,2,1,76-116,3,3,2,0,0,0, Differdange Localité, Differdange,2250
+222,Apartment,2,1,42-75,1,1,1,0,0,2, Beggen, Luxembourg,1800
+223,Apartment,1,0,76-116,2,2,1,0,0,0, Dudelange,Luxembourg,1650
+224,Apartment,1,0,76-116,2,2,1,0,0,0, Diekirch,Luxembourg,1600
+225,Apartment,2,1,76-116,3,3,1,0,0,0, Merl, Luxembourg,2950
+226,Apartment,0,1,42-75,2,2,1,0,1,0, Gasperich-Cloche d’or, Luxembourg,2700
+227,Apartment,1,1,42-75,1,1,1,1,0,0, Merl, Luxembourg,2350
+228,Apartment,1,1,42-75,1,1,1,1,1,0, Merl, Luxembourg,2350
+229,Penthouse,0,1,76-116,1,1,3,0,0,0, Hesperange Localité, Hesperange,2300
+230,detached house,0,0,42-75,2,2,1,0,1,0, Walferdange Localité, Walferdange,2300
+231,Apartment,0,1,42-75,1,1,2,0,1,0, Godbrange, Junglinster,1500
+232,Apartment,1,1,42-75,1,1,2,0,0,0, Kirchberg, Luxembourg,1800
+233,Studio,2,1,42-75,0,0,1,0,0,0, Bettembourg Localité, Bettembourg,1250
+234,Apartment,2,0,76-116,3,3,1,0,0,0, Hamm, Luxembourg,2600
+235,Apartment,1,1,42-75,1,1,1,1,0,0, Rodange, Pétange,1800
+236,Apartment,more,1,76-116,2,2,1,0,0,0, Gare, Luxembourg,2000
+237,Apartment,3,1,76-116,2,2,0,0,0,2, Schieren,Luxembourg,1950
+238,Studio,0,0,0-42,0,0,0,0,0,0, Rollingergrund, Luxembourg,1050
+239,Studio,1,0,0-42,1,1,1,1,0,0, Gare, Luxembourg,1200
+240,Apartment,1,0,116-167,3,3,2,0,0,0, Senningerberg, Niederanven,3570
+241,Apartment,0,0,42-75,1,1,1,0,1,0, Born, Rosport-Mompach,1100
+242,Penthouse,more,1,42-75,1,1,1,0,0,0, Belval-Université, Esch-sur-Alzette,2400
+243,Apartment,1,0,76-116,1,1,1,0,0,0, Pétange Localité, Pétange,1500
+244,Apartment,2,0,116-167,2,2,1,0,1,0, Senningerberg, Niederanven,3155
+245,Studio,more,1,42-75,0,0,1,0,0,1, Belval-Université, Esch-sur-Alzette,1900
+246,Studio,3,1,0-42,0,0,1,0,0,1, Mertert Localité, Mertert,1400
+247,Apartment,1,1,76-116,2,2,1,0,0,0, Bereldange, Walferdange,2400
+248,detached house,0,0,167-215,4,4,2,0,0,0, new, Bertrange,4700
+249,Apartment,0,0,0-42,1,1,1,0,0,2, Gaichel, Habscht,1500
